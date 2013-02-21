@@ -1,0 +1,9 @@
+{
+    "name" : "recipe-app",
+    "version" : "0.0.1",
+    "author" : "Mike Dominice <mike@mikedominice.com>",
+    "dependencies" : {
+    	"express" : "3.x",
+    	"mongoose" : "3.5.x"
+    }
+}
