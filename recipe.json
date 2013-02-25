@@ -1,0 +1,18 @@
+{
+	"id": "512aacf9b533a2a008000002",
+	"name": "My Stuff",
+	"href": "/api/recipes/512aacf9b533a2a008000002",
+	"instructions": "Step 1: get your stuff. Step 2: make your other stuff.",
+	"ingredients": [
+		{
+			"amount" : 4,
+			"unit" : "cup",
+			"name" : "flour"
+		},
+		{
+			"amount" : 1.5,
+			"unit" : "teaspoon",
+			"name" : "vanilla"
+		}
+	]
+}
